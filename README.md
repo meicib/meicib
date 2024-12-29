@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm a junior at UC Berkeley majoring in CS and minoring in DS.
 
-Feel free to check out my website or [contact me](mailto:ameicib@berkeley.edu) for more information!
+Feel free to check out [my website](https://meicib.vercel.app/) or [contact me](mailto:ameicib@berkeley.edu) for more information!
