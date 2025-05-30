@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a junior at UC Berkeley majoring in CS and minoring in DS.
+I'm a senior at UC Berkeley 🐻 majoring in CS 💻 and minoring in DS 📊
 
 Feel free to check out [my website](https://meicib.vercel.app/) or [contact me](mailto:ameicib@berkeley.edu) for more information!
